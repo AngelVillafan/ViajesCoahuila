@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "D:\\Users\\Carlos\\source\\repos\\AngelVillafan\\ViajesCoahuila\\ViajesCoahuila\\ViajesCoahuilaAPI\\ViajesCoahuilaAPI.csproj": {}
   },
   "projects": {
@@ -13,19 +12,6 @@
         "projectPath": "D:\\Users\\Carlos\\source\\repos\\AngelVillafan\\ViajesCoahuila\\ViajesCoahuila\\ViajesCoahuilaAPI\\ViajesCoahuilaAPI.csproj",
         "packagesPath": "C:\\Users\\jcgar\\.nuget\\packages\\",
         "outputPath": "D:\\Users\\Carlos\\source\\repos\\AngelVillafan\\ViajesCoahuila\\ViajesCoahuila\\ViajesCoahuilaAPI\\obj\\",
-=======
-    "C:\\Users\\Angel Villafan\\Source\\Repos\\ViajesCoahuila\\ViajesCoahuila\\ViajesCoahuilaAPI\\ViajesCoahuilaAPI.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\Angel Villafan\\Source\\Repos\\ViajesCoahuila\\ViajesCoahuila\\ViajesCoahuilaAPI\\ViajesCoahuilaAPI.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Angel Villafan\\Source\\Repos\\ViajesCoahuila\\ViajesCoahuila\\ViajesCoahuilaAPI\\ViajesCoahuilaAPI.csproj",
-        "projectName": "ViajesCoahuilaAPI",
-        "projectPath": "C:\\Users\\Angel Villafan\\Source\\Repos\\ViajesCoahuila\\ViajesCoahuila\\ViajesCoahuilaAPI\\ViajesCoahuilaAPI.csproj",
-        "packagesPath": "C:\\Users\\Angel Villafan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Angel Villafan\\Source\\Repos\\ViajesCoahuila\\ViajesCoahuila\\ViajesCoahuilaAPI\\obj\\",
->>>>>>> 2e51e14f63d3b2a3ccf179afa146a593435e1f1f
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -60,7 +46,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.5, )"
             },
