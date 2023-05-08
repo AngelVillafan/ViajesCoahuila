@@ -10,7 +10,7 @@ namespace ViajesCoahuilaAPI.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             string connectionString = "database=viajes; password=root; user=root; server=localhost";
-            optionsBuilder.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString))
+            optionsBuilder.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
         }
     }
 }

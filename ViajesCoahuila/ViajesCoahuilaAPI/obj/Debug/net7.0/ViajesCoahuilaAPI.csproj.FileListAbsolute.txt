@@ -1,0 +1,7 @@
+D:\Users\Carlos\source\repos\AngelVillafan\ViajesCoahuila\ViajesCoahuila\ViajesCoahuilaAPI\obj\Debug\net7.0\ViajesCoahuilaAPI.csproj.AssemblyReference.cache
+D:\Users\Carlos\source\repos\AngelVillafan\ViajesCoahuila\ViajesCoahuila\ViajesCoahuilaAPI\obj\Debug\net7.0\ViajesCoahuilaAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carlos\source\repos\AngelVillafan\ViajesCoahuila\ViajesCoahuila\ViajesCoahuilaAPI\obj\Debug\net7.0\ViajesCoahuilaAPI.AssemblyInfoInputs.cache
+D:\Users\Carlos\source\repos\AngelVillafan\ViajesCoahuila\ViajesCoahuila\ViajesCoahuilaAPI\obj\Debug\net7.0\ViajesCoahuilaAPI.AssemblyInfo.cs
+D:\Users\Carlos\source\repos\AngelVillafan\ViajesCoahuila\ViajesCoahuila\ViajesCoahuilaAPI\obj\Debug\net7.0\ViajesCoahuilaAPI.csproj.CoreCompileInputs.cache
+D:\Users\Carlos\source\repos\AngelVillafan\ViajesCoahuila\ViajesCoahuila\ViajesCoahuilaAPI\obj\Debug\net7.0\ViajesCoahuilaAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\Carlos\source\repos\AngelVillafan\ViajesCoahuila\ViajesCoahuila\ViajesCoahuilaAPI\obj\Debug\net7.0\ViajesCoahuilaAPI.MvcApplicationPartsAssemblyInfo.cache
