@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "qmB+UXr3YBh34rqY9m4rFoc6Vy6mA2J5w+WN9AO/NE/BMJciSgOJyLRKlFAUZ6J8UjCXuCez/h6E+/yof6elFg==",
   "success": true,
   "projectFilePath": "D:\\Users\\Carlos\\source\\repos\\AngelVillafan\\ViajesCoahuila\\ViajesCoahuila\\ViajesCoahuilaAPI\\ViajesCoahuilaAPI.csproj",
+=======
+  "dgSpecHash": "lmjXQGMDZ67cN90HTHG9I1pEt6af90GrEX0YAsTT8Q6A9sjNvKHfN69Yoy9gmwjQKprvn5J/ad8V49jPLQHUyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Angel Villafan\\Source\\Repos\\ViajesCoahuila\\ViajesCoahuila\\ViajesCoahuilaAPI\\ViajesCoahuilaAPI.csproj",
+>>>>>>> 2e51e14f63d3b2a3ccf179afa146a593435e1f1f
   "expectedPackageFiles": [
     "C:\\Users\\jcgar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\jcgar\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
