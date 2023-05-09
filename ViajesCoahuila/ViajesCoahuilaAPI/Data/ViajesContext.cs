@@ -6,6 +6,14 @@ namespace ViajesCoahuilaAPI.Data
 {
     public class ViajesContext:DbContext
     {
+        public ViajesContext(DbContextOptions<ViajesContext> options):base(options)
+        {
+           
+        }
+        public ViajesContext()
+        {
+
+        }
         public DbSet<Usuario>   Usuarios { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -13,10 +21,6 @@ namespace ViajesCoahuilaAPI.Data
             modelBuilder.ApplyConfiguration<Usuario>(new UsuariosConfiguration());
         }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            string connectionString = "database=viajes; password=root; user=root; server=localhost";
-            optionsBuilder.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
-        }
+        
     }
 }

@@ -34,7 +34,7 @@ namespace ViajesCoahuilaAPI.Configurations
                 .HasColumnName("calif_pasajero")
                 .HasColumnType("float")
                 .HasDefaultValue(0);
-
+            
         }
     }
 }
