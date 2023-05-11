@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ViajesCoahuila"
+    "\\ViajesCoahuila",
+    "\\ViajesCoahuila\\ViajesCoahuilaAPI",
+    "\\ViajesCoahuila\\ViajesCoahuilaAPI\\Data"
   ],
-  "SelectedNode": "\\ViajesCoahuila\\ViajesCoahuila.sln",
+  "SelectedNode": "\\ViajesCoahuila\\ViajesCoahuilaAPI\\Data\\ViajesContext.cs",
   "PreviewInSolutionExplorer": false
 }
